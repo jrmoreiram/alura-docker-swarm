@@ -1,9 +1,3 @@
-#  Arquivos de configuração doacker
+#  Arquivos de configuração docker 
 
-<div style="display: inline_block"><br>
-
- <img align="center" alt="Junior-Kubernetes" title="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
- <img align="center" alt="Junior-Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
- 
- </div>
- <br/>
+![image](https://user-images.githubusercontent.com/8320781/153675048-a04ee60d-05f6-4735-a021-20626a17bf57.png)
