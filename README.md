@@ -9,7 +9,7 @@
 - Entenda e crie sua própria rede no Swarm
 
 ### Aulas:
-- Cluster com Docker Swarm Ver primeiro vídeo
+- Cluster com Docker Swarm
 - Responsabilidade dos nós workers
 - Gerenciando o cluster com managers
 - Separando as responsabilidades
