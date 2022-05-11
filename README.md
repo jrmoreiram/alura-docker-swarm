@@ -1,3 +1,18 @@
-#  Arquivos de configuração docker 
+# Curso de Docker Swarm: Orquestrador de containers 
 
-![image](https://user-images.githubusercontent.com/8320781/153675048-a04ee60d-05f6-4735-a021-20626a17bf57.png)
+### Temas abordados durante o curso:
+
+- Gerencie um cluster com Docker Swarm
+- Use a Docker Machine para criar os hosts e nodes
+- Use managers, workers e serviços no cluster
+- Replique serviços e deploye um stack de containers
+- Entenda e crie sua própria rede no Swarm
+
+### Aulas:
+- Cluster com Docker Swarm Ver primeiro vídeo
+- Responsabilidade dos nós workers
+- Gerenciando o cluster com managers
+- Separando as responsabilidades
+- Serviços globais e replicados
+- Driver Overlay
+- Deploy com Docker Stack
